@@ -1,5 +1,30 @@
 .my-bg-image{
-    background-image: url("https://images.unsplash.com/photo-1502759683299-cdcd6974244f?auto=format&fit=crop&w=440&h=220&q=60");
+    background-image: url("../dist/bg/pabrik.JPG");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
 }
+
+
+.custom-shape-divider-bottom-1600969527 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1600969527 svg {
+    position: relative;
+    display: block;
+    width: calc(137% + 1.3px);
+    height: 500px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1600969527 .shape-fill {
+    fill: #F6F9F9;
+}
+
+

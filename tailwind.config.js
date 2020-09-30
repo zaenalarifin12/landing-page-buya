@@ -28,7 +28,8 @@ module.exports = {
         700: '#4a5568',
         800: '#2d3748',
         900: '#1a202c',
-        clone: '#F6F9F9'
+        clone: '#F6F9F9',
+        footer: '#F6F9F9'
       },
       red: {
         100: '#fff5f5',
@@ -95,7 +96,7 @@ module.exports = {
         700: '#2b6cb0',
         800: '#2c5282',
         900: '#2a4365',
-        primary: '#1904B9'
+        primary: '#02365C'
       },
       indigo: {
         100: '#ebf4ff',
@@ -131,7 +132,7 @@ module.exports = {
         900: '#702459',
       },
       orange: {
-        primary: '#FF8A00'
+        primary: '#FE9000'
       }
     },
     spacing: {
@@ -290,10 +291,12 @@ module.exports = {
       bold: '700',
       extrabold: '800',
       black: '900',
+      xxblack: '1000',
+      xxxblack: '1200',
     },
     height: theme => ({
       auto: 'auto',
-      home: '50rem',
+      home: '70rem',
       profil: '20rem',
       ...theme('spacing'),
       full: '100%',
