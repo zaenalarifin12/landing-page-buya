@@ -2,8 +2,21 @@
     background-image: url("../dist/bg/pabrik.JPG");
     background-repeat: no-repeat;
     background-size: 100%;
+
 }
 
+.my-bg-blue-image{
+    background-image: url("../dist/bg/bg-blue.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.my-bg-orange-image{
+    background-image: url("../dist/bg/bg-orange.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
 
 .custom-shape-divider-bottom-1600969527 {
     position: absolute;

@@ -1,5 +1,2 @@
 
 https://heroicons.dev/
-
-
-API MAPS = AIzaSyBVTuM4mxvA3r5decGA5cXFEbSapLaV914
